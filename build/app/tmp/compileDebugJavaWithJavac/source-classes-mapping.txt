@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/hyperhire_app/BuildConfig.java
+ com.example.hyperhire_app.BuildConfig
+com/example/hyperhire_app/MainActivity.java
+ com.example.hyperhire_app.MainActivity
